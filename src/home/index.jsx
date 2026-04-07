@@ -36,7 +36,6 @@ export default function Home() {
     <>
       <Header />
       <Main />
-      <h2>Filmes</h2>
       <Carousel imagens={filmes} />
     </>
   );

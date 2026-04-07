@@ -66,6 +66,8 @@ header .links a:hover {
 
     header .logo {
         font-size: 2.8rem;
+        color: var(--red);
+        font-family: 'Arial Black', Times;
     }
 
     header .links {
@@ -73,6 +75,6 @@ header .links a:hover {
     }
 
     header .links a {
-        font-size: 1.3rem;
+        font-size: 1.6rem;
     }
 }

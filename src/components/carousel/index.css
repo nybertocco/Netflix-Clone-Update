@@ -104,6 +104,7 @@
 @media (max-width: 480px) {
     .carousel {
         padding: 6px;
+        margin-top: 1.5rem;
     }
 
     .carousel-track {

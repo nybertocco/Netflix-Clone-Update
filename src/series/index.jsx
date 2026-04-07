@@ -37,8 +37,6 @@ export default function Series() {
     <div>
       <Header />
       <Main />
-
-      <h2>Séries</h2>
       <Carousel titulo="Séries" imagens={series} />
     </div>
   );

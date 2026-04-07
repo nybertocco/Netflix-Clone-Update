@@ -111,9 +111,9 @@
     }
 
     .filme-principal .buttons {
-        margin-left: 1.5rem;
+        display: flex;
         margin-top: 1.5rem;
-        flex-direction: column;
+        flex-direction: row;
         gap: 1rem;
         align-items: flex-start;
     }
@@ -121,7 +121,8 @@
     .filme-principal .button {
         font-size: 1.2rem;
         padding: 1rem 2rem;
-        width: 100%;
+        width: 90%;
         justify-content: center;
+        align-items: center;
     }
 }
