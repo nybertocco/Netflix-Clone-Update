@@ -1,0 +1,10 @@
+.minhaLista h1 {
+    margin-left: 2.5rem;
+    font-weight: 400;
+}
+
+.listaVazia {
+    text-align: center;
+    font-size: 1.6rem;
+    margin-top: 20rem;
+}

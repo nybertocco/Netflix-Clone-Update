@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+  --black: #141414;
+  --red: #e50914; 
+}
+
+body {
+  font-family: 'Arial', Times, serif;
+  background: var(--black);
+}
+
+a {
+  text-decoration: none;
+}
+
+h1, p, button {
+  color: #fff;
+}
