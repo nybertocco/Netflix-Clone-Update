@@ -18,7 +18,7 @@ header .container {
 header .logo {
     color: var(--red);
     font-size: 4rem;
-    font-family: 'Arial Black', Times;
+    font-family: 'Bebas Neue', sans-serif;
 }
 
 header .links {
@@ -67,8 +67,6 @@ header .links a:hover {
     header .logo {
         font-size: 2.8rem;
         color: var(--red);
-        font-family: 'Arial Black', Times;
-        font-weight: bold;
     }
 
     header .links {
